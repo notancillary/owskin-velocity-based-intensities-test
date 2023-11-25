@@ -1,5 +1,5 @@
 # owskin-velocity-based-intensities-test
-Test to determine the feasibility of utilizing velocities to determine intensity. 
+Test to determine the feasibility of utilizing velocities to determine intensity. <br>
 <br>
 Create empty with a contact reciever a bit larger than your torso overall
 <br>

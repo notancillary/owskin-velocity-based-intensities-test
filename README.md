@@ -5,7 +5,7 @@ Create empty with a contact reciever a bit larger than your torso overall
 <br>
 ![image](https://github.com/notancillary/owskin-velocity-based-intensities-test/assets/50598087/3df37e6c-000f-46f8-bec1-c9f8c201bfe2)
 <br><br>
-set for the standard collision tags <br>
+set the standard collision tags <br>
 use the param low_vel_1 <br>
 set to 0.1 min vel on enter <br>
 ![image](https://github.com/notancillary/owskin-velocity-based-intensities-test/assets/50598087/55e4b84d-21b8-40fe-ad4d-92a7bf6a2134)

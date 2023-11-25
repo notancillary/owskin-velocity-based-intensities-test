@@ -1,7 +1,7 @@
 # owskin-velocity-based-intensities-test
 Test to determine the feasibility of utilizing velocities to determine intensity. <br>
 <br>
-Create empty with a contact reciever a bit larger than your torso overall
+Create empty on spine bone with a contact reciever a bit larger than your torso overall
 <br>
 ![image](https://github.com/notancillary/owskin-velocity-based-intensities-test/assets/50598087/3df37e6c-000f-46f8-bec1-c9f8c201bfe2)
 <br><br>
